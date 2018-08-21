@@ -1,5 +1,6 @@
 # HiberProxy
-A Powerful Python script that downloads and checks proxies from several sites. You can reach up to 28K proxies!
+A Powerful Python script that downloads and checks proxies from several sites.
+You can reach up to 28K proxies!
 
 <h2>Install dependencies</h2>
 To use it you need python3 and also an extra module.
