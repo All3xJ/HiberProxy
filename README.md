@@ -2,7 +2,7 @@
 A Powerful Python script that downloads and checks proxies from several sites.
 
 <h2>Install dependencies</h2>
-To use it you have to use python3 and you also need an extra modules.
+To use it you need python3 and also an extra module.
 
 To install it, type:
 <pre>pip3 install bs4</pre>
