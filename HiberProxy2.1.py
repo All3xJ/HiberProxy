@@ -567,7 +567,7 @@ def main(): # funzione effettiva del programma.
 		proxyget2(url) # manda url alla funzione
 		url = "https://www.us-proxy.org/"
 		proxyget2(url)
-		print("Current IPs in proxylist: %s" % (len(open("proxy.txt").readlines()))) # rpinta la lunghezza attuale del file, che sarebbe il numero di proxy
+		print("Current IPs in proxylist: %s" % (len(open("proxy.txt").readlines()))) # printa la lunghezza attuale del file, che sarebbe il numero di proxy
 
 		print ("\nDownloading from blogspot in progress...\n")
 		url = "http://www.proxyserverlist24.top/"
