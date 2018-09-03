@@ -582,7 +582,7 @@ def main(): # funzione effettiva del programma.
 
 		print ("\nDownloading from various mirrors in progress...")
 		for position, url in enumerate(nurls):
-			proxyget(url) # avvia un thread per url per velocizzare enormemente il processo.
+			proxyget(url)
 			print("Completed downloads: (%s/%s)\nCurrent IPs in proxylist: %s" % (position+1, len(nurls), len(open("proxy.txt").readlines())))
 
 		print ("\nDownloading from foxtools in progress...")
