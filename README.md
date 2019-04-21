@@ -1,7 +1,7 @@
 # HiberProxy
 A Multithreading Powerful Python script that downloads and checks proxies from several sites.
 
-<h4>You can reach up to 28K proxies!</h4>
+<h4>You can reach up to 30K proxies!</h4>
 
 <h2>Install dependencies</h2>
 To use it you need python3 and also an extra module.
